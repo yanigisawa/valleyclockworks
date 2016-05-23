@@ -3,7 +3,7 @@ name: Tell City Advertising clock
 heading: Tell City Advertising Clock
 subheading: $250
 menu: false
-image: "assets/img/tellCityAdvertisingClock_500.JPG"
+image: "assets/img/tellCityAdvertisingClock_500.jpg"
 ---
 
 Original Tell City Advertising Clock, Likely hung in a furniture store featuring Tell City Products. 
