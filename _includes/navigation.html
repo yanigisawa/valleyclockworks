@@ -14,9 +14,11 @@
     <div id='menu'>
       <ul>
         {% for feature in site.features %}
+        {% if feature.menu %}
         <li>
           <a href='#{{ feature.id }}'>{{ feature.name }}</a>
         </li>
+        {% endif %}
         {% endfor %}
       </ul>
     </div>

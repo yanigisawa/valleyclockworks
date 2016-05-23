@@ -3,6 +3,7 @@ id: contact
 name: Contact
 heading: Contact
 image: "assets/img/fashion-wristwatch-time-watch_500.jpg"
+menu: true
 ---
 
 Phone Number: 812-547-2122
