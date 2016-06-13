@@ -4,9 +4,11 @@ layout: compress
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body>
+  <body id="page-top">
   	{% include navigation.html %}
   	{{ content }}
   	<script src='{{ site.baseurl }}/assets/app.js'></script>
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 	</body>
 </html>

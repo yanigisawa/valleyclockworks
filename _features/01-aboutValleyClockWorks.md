@@ -1,6 +1,5 @@
 ---
-id: aboutValleyClockWorks
-name: About
+name: about
 heading: About Valley Clock Works
 image: "assets/img/storeFront.png"
 menu: true

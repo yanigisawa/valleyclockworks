@@ -1,6 +1,5 @@
 ---
-id: about
-name: About the Owner
+name: aboutTheOwner
 heading: About the Owner
 image: "http://valleyclockworks.com/data/_uploaded/image/100_1296.JPG"
 menu: false

@@ -1,6 +1,5 @@
 ---
-id: clocksForSale
-name: Clocks For Sale
+name: clocksForSale
 heading: Clocks For Sale
 menu: true
 ---
