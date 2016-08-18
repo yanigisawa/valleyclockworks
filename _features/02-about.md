@@ -1,7 +1,7 @@
 ---
 name: aboutTheOwner
 heading: About the Owner
-image: "assets/img/ValleyStoreFront.JPG"
+image: "assets/img/ValleyStoreFront.jpg"
 menu: false
 ---
 
