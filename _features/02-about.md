@@ -1,7 +1,7 @@
 ---
 name: aboutTheOwner
 heading: About the Owner
-image: "http://valleyclockworks.com/data/_uploaded/image/100_1296.JPG"
+image: "assets/img/ValleyStoreFront.JPG"
 menu: false
 ---
 
