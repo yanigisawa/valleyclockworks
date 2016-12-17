@@ -1,2 +1,6 @@
 # valleyclockworks
-[One Page Wonder](https://github.com/mushishi78/one-page-wonder-jekyll) theme customized [Jekyll](https://jekyllrb.com/) site for ValleyClockWorks.com
+Static HTML for ValleyClockWorks.com.
+
+Theme from https://html5up.net/forty
+
+Stock Images from https://www.pexels.com/
