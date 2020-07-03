@@ -3687,6 +3687,11 @@
 					position: relative;
 				}
 
+				#contact > .inner > .split > .nopad {
+					padding: 1em 0 0em 3em;
+					position: relative;
+				}
+
 					#contact > .inner > .split > *:before {
 						border-top: solid 1px rgba(212, 212, 255, 0.1);
 						content: '';
