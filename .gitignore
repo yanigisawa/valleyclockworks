@@ -104,3 +104,4 @@ node_modules/
 .vscode/
 *.swp
 _site/
+.DS_Store
