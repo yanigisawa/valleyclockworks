@@ -13,11 +13,7 @@
 
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
     <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-    <script>
-        jQuery.htmlPrefilter = function (html) {
-            return html;
-        };
-    </script>
+
 </head>
 
 <body>
@@ -321,7 +317,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
     <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
     <script src="assets/js/main.js"></script>
-
+    <script>
+        jQuery.htmlPrefilter = function (html) {
+            return html;
+        };
+    </script>
 </body>
 
 </html>
